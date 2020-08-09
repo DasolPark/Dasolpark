@@ -38,6 +38,7 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [First post!](https://dev.to/dasolpark/first-post-1870)
 <!-- BLOG-POST-LIST:END -->
 
 ---
