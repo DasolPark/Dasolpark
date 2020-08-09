@@ -34,12 +34,6 @@
 <br />
 <br />
 
-<!-- --- -->
-
-<!-- ### 📺 Latest YouTube Videos -->
-<!-- YOUTUBE:START -->
-<!-- YOUTUBE:END -->
-
 ---
 
 ### 📕 Latest Blog Posts
