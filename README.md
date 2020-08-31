@@ -1,6 +1,7 @@
 ### Hi there, I'm Dasol - [website] 👋
 
-## I'm a Developer and Traveler!
+## I'm a Developer!
+
 - 🌱 I’m currently learning Front-End technologies 🤣
 - 👯 I’m looking for a job
 - 🥅 2020 Goals: Contribute more to Open Source projects
@@ -8,9 +9,9 @@
   
 ### Connect with me:
 
-[<img align="left" alt="Dasol Park" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Dasol Park" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][tistory]
+<!-- [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] -->
+<!-- [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] -->
 
 <br />
 
@@ -19,6 +20,7 @@
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="SASS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
 <img align="left" alt="React.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
@@ -33,20 +35,24 @@
 <br />
 <br />
 
----
+<!-- --- -->
 
-### 📕 Latest Blog Posts
+<!-- ### 📕 Latest Blog Posts -->
+
 <!-- BLOG-POST-LIST:START -->
-- [First post!](https://dev.to/dasolpark/first-post-1870)
+<!-- - [First post!](https://dev.to/dasolpark/first-post-1870) -->
 <!-- BLOG-POST-LIST:END -->
 
 ---
 
+<br />
+
 <img align="left" alt="Dasol's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=DasolPark&show_icons=true&hide_border=true" />
 
-[website]: https://dasol-portfolio.s3.ap-northeast-2.amazonaws.com/index.html
-[instagram]: https://www.instagram.com/_keeptellingstories/
-[linkedin]: https://www.linkedin.com/in/dasol-park-9b769b172/
+[website]: https://www.dasolpark.com
+[tistory]: https://dpsc615.tistory.com/
+<!-- [instagram]: https://www.instagram.com/_keeptellingstories/ -->
+<!-- [linkedin]: https://www.linkedin.com/in/dasol-park-9b769b172/ -->
 
 <!-- blog post workflow from 'Gautam krishna R' -->
 <!-- github stats from 'Anurag Hazra' -->
