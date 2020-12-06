@@ -2,8 +2,8 @@
 
 ## I'm a Developer!
 
-- 🌱 I’m currently working for withgoods
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🌱 I’m currently working as a full-stack developer
+- 🥅 2021 Goals: Contribute to Open Source projects
 - ⚡ Fun fact: I love to work out and sing
   
 ### Connect with me:
