@@ -2,9 +2,9 @@
 
 ## I'm a Developer!
 
-- 🌱 I’m currently working as a full-stack developer
+- 🌱 I’m currently working as a Full Stack Developer
 - 🥅 2021 Goals: Contribute to Open Source projects
-- ⚡ Fun fact: I love to work out and sing
+- ⚡ Fun fact: I like exercising and singing
   
 ### Connect with me:
 
@@ -47,7 +47,7 @@
 
 <br />
 
-<img align="left" alt="Dasol's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=DasolPark&show_icons=true&hide_border=true" />
+<img align="left" alt="Dasol's Github Stats" src="https://github-readme-stats.vercel.app/api?username=dasolpark&show_icons=true&hide_border=true" />
 
 [website]: https://www.dasolpark.com
 [tistory]: https://dpsc615.tistory.com/
